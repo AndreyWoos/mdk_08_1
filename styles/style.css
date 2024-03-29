@@ -1,0 +1,64 @@
+body {
+    background: royalblue;
+}
+h1 {
+    font-family: Arial Black;
+    font-size: 24px;
+    color: white;
+}
+h2 {
+    font-family: Arial Black;
+    font-size: 20px;
+    color: white
+}
+h3 {
+    font-family: Arial Black;
+    font-size: 18px;
+    color: white
+}
+h4 {
+    font-family: Arial Black;
+    font-size: 14px;
+    color: white
+
+}
+.text {
+    font-size: 16px;
+    color: black;
+    font-family: Arial
+}
+.footer {
+    font-family: Verdana;
+    color: red;
+}
+.menu {
+    background-color: thistle;
+}
+.new1 {
+    width: 650px;
+    height: 300px;
+    background-size: cover;
+    background: url("../img/main-how-to-watch-basketball.2m2q17..jpg")
+}
+.new2 {
+    width: 650px;
+    height: 300px;
+    background-size: cover;
+    background: url("../img/original-1pc6.jpg")
+}
+.istochnik {
+    color: red;
+    font-family: Verdana;
+}
+.text1 {
+    font-family: Arrial Narrow;
+}
+.data {
+    color: red;
+}
+.text2 {
+    font-family: Arrial Narrow;
+}
+.text3 {
+    font-family: Arrial Narrow;
+}
